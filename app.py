@@ -1,2 +1,1 @@
-'print("Hello, World!")' 
-'\ndef print_name():\n    print("Khalifa Alremeithi")' 
+'def print_name:\n  print("Khalifa Abdulla Al Remeithi")\n\nprint("Hello World!!")\nprint_name()' 
